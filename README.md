@@ -7,3 +7,8 @@
 - _Técnico em Informática (**IFRN-Macau**)_
 - _Aspirante a cientista da computação_
 
+######
+Outros códigos em:
+- [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/profile/271855)
+- [REPL.it](https://repl.it/@FelipeEduardoR2)
+######
