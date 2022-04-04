@@ -2,7 +2,7 @@
 
 ### Jão ###
 
-**23 anos, natural de Diogo Lopes (Macau-RN/Brasil), Pai, Trabalhador informal, Estudante do Bacharelado em TI da UFRN.**
+**23 anos, natural de Diogo Lopes (Macau-RN/Brasil), Pai, Desenvolvedor Full-Stack, Estudante do Bacharelado em TI da UFRN.**
 
 - _Técnico em Informática (**IFRN-Macau**)_
 - _Aspirante a cientista da computação_
